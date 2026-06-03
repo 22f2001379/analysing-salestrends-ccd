@@ -10,19 +10,19 @@ Unlike many academic projects that rely on publicly available datasets, this pro
 
 ## Project Highlights
 
-✅ Primary data collected from a real business environment
+Primary data collected from a real business environment
 
-✅ 90 days of sales observations
+90 days of sales observations
 
-✅ Approximately 800 transaction records analysed
+Approximately 800 transaction records analysed
 
-✅ Statistical and business analytics techniques applied
+Statistical and business analytics techniques applied
 
-✅ Demand forecasting and inventory optimisation
+Demand forecasting and inventory optimisation
 
-✅ Actionable recommendations for business operations
+Actionable recommendations for business operations
 
-✅ Complete project lifecycle documented
+Complete project lifecycle documented
 
 * Project Proposal
 * Mid-Term Submission
